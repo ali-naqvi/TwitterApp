@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Rest Client Template</string>
+    <string name="login_label">Log in</string>
+    <string name="title_activity_twitter_home">Timeline</string>
+    <string name="action_logout">Logout</string>
+    <string name="title_activity_tweet">Tweet</string>
+
+</resources>

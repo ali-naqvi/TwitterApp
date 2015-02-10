@@ -1,0 +1,8 @@
+<resources>
+
+    <style name="AppHomeTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:actionBarSize">40dp</item>
+    </style>
+    <style name="AppLoginTheme" parent="Theme.AppCompat.Light.NoActionBar">
+    </style>
+</resources>
